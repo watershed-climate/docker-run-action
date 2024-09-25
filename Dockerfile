@@ -1,4 +1,4 @@
-FROM docker:27.3.1
+FROM docker:27.3.0
 
 RUN apk add bash
 
